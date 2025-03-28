@@ -18,7 +18,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ## Paper Collection
 
-| Title | Category | Year | url |
+| Title | Section_or_Category | Year | url |
 | --- | --- | --- | --- |
 | Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends  | Introduction | 2024 | [link](https://arxiv.org/abs/2409.14457) |
 | Agent AI: Surveying the Horizons of Multimodal Interaction | Introduction | 2024 | [link](https://arxiv.org/abs/2401.03568) |
@@ -224,23 +224,23 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | Large Language Models lack essential metacognition for reliable medical reasoning | Applications | 2025 | [link](https://doi.org/10.1038/s41467-024-55628-6) |
 | Balancing autonomy and expertise in autonomous synthesis laboratories | Applications | 2025 | [link](https://doi.org/10.1038/s43588-025-00769-x) |
 | Agent Attacks or Security |  |  |  |
-| DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent  | Security |  | [link](https://arxiv.org/abs/2502.12575) |
-| Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security | Security |  | [link](https://arxiv.org/abs/2401.05459) |
-| CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models  | Security |  | [link](https://arxiv.org/abs/2502.14529) |
-| G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems  | Security |  | [link](https://arxiv.org/abs/2502.11127) |
-| AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks | Security |  | [link](https://openreview.net/forum?id=AC5n7xHuR1) |
-| Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks  | Security |  | [link](https://arxiv.org/abs/2502.08586) |
-| PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety  | Security |  | [link](https://arxiv.org/abs/2401.11880) |
-| TrustAgent: Towards Safe and Trustworthy LLM-based Agents  | Security |  | [link](https://arxiv.org/abs/2402.01586) |
-| AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways | Security |  | [link](https://dl.acm.org/doi/abs/10.1145/3716628) |
-| Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents  | Security |  | [link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html) |
-| R-Judge: Benchmarking Safety Risk Awareness for LLM Agents  | Security |  | [link](https://arxiv.org/abs/2401.10019) |
-| Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations  | Security |  | [link](https://arxiv.org/abs/2410.09097) |
-| NetSafe: Exploring the Topological Safety of Multi-agent Networks  | Security |  | [link](https://arxiv.org/abs/2410.15686) |
-| A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents  | Security |  | [link](https://arxiv.org/abs/2402.10196) |
-| Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems | Security |  |  |
-| Dify | Tools |  | [link](https://github.com/langgenius/dify) |
-| LangChian | Tools |  | [link](https://github.com/langchain-ai/langchain) |
+| DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent  | Security | 2025 | [link](https://arxiv.org/abs/2502.12575) |
+| Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security | Security | 2024 | [link](https://arxiv.org/abs/2401.05459) |
+| CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models  | Security | 2025 | [link](https://arxiv.org/abs/2502.14529) |
+| G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems  | Security | 2025 | [link](https://arxiv.org/abs/2502.11127) |
+| AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks | Security | 2025 | [link](https://openreview.net/forum?id=AC5n7xHuR1) |
+| Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks  | Security | 2025 | [link](https://arxiv.org/abs/2502.08586) |
+| PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety  | Security | 2024 | [link](https://arxiv.org/abs/2401.11880) |
+| TrustAgent: Towards Safe and Trustworthy LLM-based Agents  | Security | 2024 | [link](https://arxiv.org/abs/2402.01586) |
+| AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways | Security | 2025 | [link](https://dl.acm.org/doi/abs/10.1145/3716628) |
+| Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents  | Security | 2024 | [link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html) |
+| R-Judge: Benchmarking Safety Risk Awareness for LLM Agents  | Security | 2024 | [link](https://arxiv.org/abs/2401.10019) |
+| Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations  | Security | 2024 | [link](https://arxiv.org/abs/2410.09097) |
+| NetSafe: Exploring the Topological Safety of Multi-agent Networks  | Security | 2024 | [link](https://arxiv.org/abs/2410.15686) |
+| A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents  | Security | 2024 | [link](https://arxiv.org/abs/2402.10196) |
+| Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems | Security | 2025 |  |
+| Dify | Tools | 2023 | [link](https://github.com/langgenius/dify) |
+| LangChian | Tools | 2023 | [link](https://github.com/langchain-ai/langchain) |
 | Ethical and social risks of harm from Language Models | Ethics | 2021 | [link](https://arxiv.org/abs/2112.04359) |
 | On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜  | Ethics | 2021 | [link](https://dl.acm.org/doi/10.1145/3442188.3445922) |
 | Medical large language models are vulnerable to data-poisoning attacks  | Ethics | 2025 | [link](https://www.nature.com/articles/s41591-024-03445-1) |
@@ -272,68 +272,26 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | Mitigating the Alignment Tax of RLHF  | Agent Evolution | 2024 | [link](https://aclanthology.org/2024.emnlp-main.35.pdf) |
 | Self-Rewarding Language Models  | Agent Evolution | 2024 | [link](https://arxiv.org/pdf/2401.10020) |
 | CREAM: Consistency Regularized Self-Rewarding Language Models | Agent Evolution | 2025 | [link](https://openreview.net/pdf?id=Vf6RDObyEF) |
-| Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning  | Agent Evolution |  |  |
-| Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision  | Agent Evolution |  |  |
-| Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning  | Agent Evolution |  |  |
-| V-STaR: Training Verifiers for Self-Taught Reasoners  | Agent Evolution |  |  |
-| Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping  | Agent Evolution |  |  |
-| SciInstruct: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models  | Agent Evolution |  |  |
-| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  | Agent Evolution |  |  |
-| STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning  | Agent Evolution |  |  |
-| SELFEVOLVE: A Code Evolution Framework via Large Language Models  | Agent Evolution |  |  |
-| Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory  | Agent Evolution |  |  |
-| Failures Pave the Way: Enhancing Large Language Models through Tuning-free Rule Accumulation  | Agent Evolution |  |  |
-| Large Language Models Can Self-Improve  | Agent Evolution |  |  |
-| MoT: Memory-of-Thought Enables ChatGPT to Self-Improve  | Agent Evolution |  |  |
-| React: Synergizing reasoning and acting in language models | Agent Evolution |  |  |
-| Tree of Thoughts: Deliberate Problem Solving with Large Language Models  | Agent Evolution |  |  |
-| MemoryBank: Enhancing Large Language Models with Long-Term Memory  | Agent Evolution |  |  |
-| Graph of Thoughts: Solving Elaborate Problems with Large Language Models  | Agent Evolution |  |  |
-| AUTOACT: Automatic Agent Learning from Scratch for QA via Self-Planning  | Agent Evolution |  |  |
-| Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step by Step  | Agent Evolution |  |  |
-| SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents  | Agent Evolution |  |  |
-| Trial and Error: Exploration-Based Trajectory Optimization  | Agent Evolution |  |  |
-| Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk  | Agent Evolution |  |  |
-| In-Memory Learning: A Declarative Learning Framework for Large Language Models  | Agent Evolution |  |  |
-| MemGPT: Towards LLMs as Operating Systems  | Agent Evolution |  |  |
-| ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training  | Agent Evolution |  |  |
-| SALMON: Self-alignment with instructable reward models | Agent Evolution |  |  |
-| Learning by Self-Explaining  | Agent Evolution |  |  |
-| KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents  | Agent Evolution |  |  |
-| SOLID: Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs  | Agent Evolution |  |  |
-| Can LLMs Learn from Previous Mistakes? Investigating LLMs’ Errors to Boost for Reasoning  | Agent Evolution |  |  |
-| Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation  | Agent Evolution |  |  |
-| Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment  | Agent Evolution |  |  |
-| Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives  | Agent Evolution |  |  |
-| GRATH: Gradual Self-Truthifying for Large Language Models  | Agent Evolution |  |  |
-| Self-Rewarding Language Models  | Agent Evolution |  |  |
-| RLCD: Reinforcement learning from contrastive distillation for LM alignment | Agent Evolution |  |  |
-| Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models  | Agent Evolution |  |  |
-| Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena  | Agent Evolution |  |  |
-| SELF-REFINE:  Iterative Refinement with Self-Feedback  | Agent Evolution |  |  |
-| Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation  | Agent Evolution |  |  |
-| LANGUAGE MODEL SELF-IMPROVEMENT BY REIN- FORCEMENT LEARNING CONTEMPLATION  | Agent Evolution |  |  |
-| Reflexion: an autonomous agent with dynamic memory and self-reflection  | Agent Evolution |  |  |
-| SELFEVOLVE: A Code Evolution Framework via Large Language Models  | Agent Evolution |  |  |
-| RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation  | Agent Evolution |  |  |
-| LLMs in the Imaginarium:  Tool Learning through Simulated Trial and Error  | Agent Evolution |  |  |
-| SInViG:  A Self-Evolving Interactive Visual Agent for Human-Robot Interaction  | Agent Evolution |  |  |
-| CRITIC: LARGE LANGUAGE MODELS CAN SELF- CORRECT WITH TOOL-INTERACTIVE CRITIQUING  | Agent Evolution |  |  |
-| TEACHING LARGE LANGUAGE MODELS TO SELF- DEBUG  | Agent Evolution |  |  |
-| SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions  | Agent Evolution |  |  |
-| Large Language Models are Better Reasoners with Self-Verification  | Agent Evolution |  |  |
-| CODET: CODE GENERATION WITH GENERATED TESTS  | Agent Evolution |  |  |
-| SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS  | Agent Evolution |  |  |
-| Beyond Human Data: Scaling Self-Training for Problem- Solving with Language Models  | Agent Evolution |  |  |
-| Constitutional AI: Harmlessness from AI Feedback  | Agent Evolution |  |  |
-| SELF: SELF-EVOLUTION WITH LANGUAGE FEED- BACK  | Agent Evolution |  |  |
-| Self-Verification Improves Few-Shot Clinical Information Extraction  | Agent Evolution |  |  |
-| Iterative Translation Refinement with Large Language Models  | Agent Evolution |  |  |
-| ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning  | Agent Evolution |  |  |
-| ProAgent: Building Proactive Cooperative Agents with Large Language Models  | Agent Evolution |  |  |
-| Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games  | Agent Evolution |  |  |
-| Agent Planning with World Knowledge Model  | Agent Evolution |  |  |
-| Refining Guideline Knowledge for Agent Planning Using Textgrad  | Agent Evolution |  |  |
+| Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning  | Agent Evolution | 2023 | [link](https://arxiv.org/pdf/2311.08182) |
+| V-STaR: Training Verifiers for Self-Taught Reasoners  | Agent Evolution | 2024 | [link](https://openreview.net/pdf?id=stmqBSW2dV) |
+| STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning  | Agent Evolution | 2022 | [link](https://openreview.net/pdf?id=_3ELRdg2sgI) |
+| SELFEVOLVE: A Code Evolution Framework via Large Language Models  | Agent Evolution | 2023 | [link](https://arxiv.org/pdf/2306.02907) |
+| KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents  | Agent Evolution | 2025 | [link](https://arxiv.org/pdf/2403.03101) |
+| RLCD: Reinforcement learning from contrastive distillation for LM alignment | Agent Evolution | 2024 | [link](https://openreview.net/pdf?id=v3XXtxWKi6) |
+| LANGUAGE MODEL SELF-IMPROVEMENT BY REIN- FORCEMENT LEARNING CONTEMPLATION  | Agent Evolution | 2024 | [link](https://openreview.net/pdf?id=38E4yUbrgr) |
+| SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions  | Agent Evolution | 2023 | [link](https://aclanthology.org/2023.acl-long.754.pdf) |
+| Large Language Models are Better Reasoners with Self-Verification  | Agent Evolution | 2023 | [link](https://aclanthology.org/2023.findings-emnlp.167.pdf) |
+| CODET: CODE GENERATION WITH GENERATED TESTS  | Agent Evolution | 2023 | [link](https://openreview.net/pdf?id=ktrw68Cmu9c) |
+| ProAgent: Building Proactive Cooperative Agents with Large Language Models  | Agent Evolution | 2024 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219) |
+| Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games  | Agent Evolution | 2023 | [link](https://arxiv.org/pdf/2310.00322) |
+| Agent Planning with World Knowledge Model  | Agent Evolution | 2024 | [link](https://openreview.net/pdf?id=j6kJSS9O6I) |
+| Refining Guideline Knowledge for Agent Planning Using Textgrad  | Agent Evolution | 2024 | [link](https://www.computer.org/csdl/proceedings-article/ickg/2024/088200a102/24sKrMSCxr2) |
+| Improving Factuality and Reasoning in Language Models through Multiagent Debate | Agent Evolution | 2023 | [link](https://arxiv.org/abs/2305.14325) |
+| Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate | Agent Evolution | 2024 | [link](https://arxiv.org/abs/2305.19118) |
+| CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | Agent Evolution | 2023 | [link](https://arxiv.org/pdf/2303.17760) |
+| LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error | Agent Evolution | 2024 | [link](https://aclanthology.org/2024.acl-long.570/) |
+
+
 ## Citation
 
 If you find our survey helpful, please consider citing our work:
