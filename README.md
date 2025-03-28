@@ -240,7 +240,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents  | Security | 2024 | [link](https://arxiv.org/abs/2402.10196) |
 | Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems | Security | 2025 |  |
 | Dify | Tools | 2023 | [link](https://github.com/langgenius/dify) |
-| LangChian | Tools | 2023 | [link](https://github.com/langchain-ai/langchain) |
+| LangChain | Tools | 2023 | [link](https://github.com/langchain-ai/langchain) |
 | Ethical and social risks of harm from Language Models | Ethics | 2021 | [link](https://arxiv.org/abs/2112.04359) |
 | On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜  | Ethics | 2021 | [link](https://dl.acm.org/doi/10.1145/3442188.3445922) |
 | Medical large language models are vulnerable to data-poisoning attacks  | Ethics | 2025 | [link](https://www.nature.com/articles/s41591-024-03445-1) |
