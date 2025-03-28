@@ -1,6 +1,6 @@
 # LLM Agent Research Collection
 
-This repository contains a comprehensive collection of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications. Our taxonomy provides a structured framework for understanding the rapidly evolving field of LLM agents, from architectural foundations to practical implementations.
+This repository contains a comprehensive collection of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications. Our taxonomy provides a structured framework for understanding the rapidly evolving field of LLM agents, from architectural foundations to practical implementations. Our survey paper is available at [link](https://arxiv.org/abs/2503.21460).
 
 The collection aims to bridge fragmented research threads by highlighting connections between agent design principles and emergent behaviors. Whether you're a researcher, practitioner, or enthusiast, this curated list offers a valuable resource for navigating the landscape of intelligent agent systems powered by large language models.
 
@@ -339,6 +339,13 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 If you find our survey helpful, please consider citing our work:
 
 ```
+
+@article{agentsurvey2025,
+  title={Large Language Model Agent: A Survey on Methodology, Applications and Challenges},
+  author={Junyu Luo and Weizhi Zhang and Ye Yuan and Yusheng Zhao and Junwei Yang and Yiyang Gu and Bohan Wu and Binqi Chen and Ziyue Qiao and Qingqing Long and Rongcheng Tu and Xiao Luo and Wei Ju and Zhiping Xiao and Yifan Wang and Meng Xiao and Chenwu Liu and Jingyang Yuan and Shichang Zhang and Yiqiao Jin and Fan Zhang and Xian Wu and Hanqing Zhao and Dacheng Tao and Philip S. Yu and Ming Zhang},
+  journal={arXiv preprint arXiv:2503.21460},
+  year={2025}
+}
 
 ```
 
