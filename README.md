@@ -133,6 +133,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | AlphaFlow: autonomous discovery and optimization of multi-step chemistry using a self-driven fluidic lab guided by reinforcement learning | Applications | 2023 | [link](https://www.nature.com/articles/s41467-023-37139-y) |
 | Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents | Applications | 2022 | [link](https://proceedings.mlr.press/v162/huang22a.html) |
 | Stress-testing the resilience of the Austrian healthcare system using agent-based simulation | Applications | 2022 | [link](https://doi.org/10.1038/s41467-022-31766-7) |
+| EgoLife: Towards Egocentric Life Assistant | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/abs/2503.03803) |
 | AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks | Datasets & Benchmarks | 2025 | [link](https://openreview.net/pdf?id=AC5n7xHuR1) |
 | AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator | Datasets & Benchmarks | 2025 | [link](https://aclanthology.org/2025.coling-main.680.pdf) |
 | Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation | Datasets & Benchmarks | 2025 | [link](https://aclanthology.org/2025.coling-main.223.pdf) |
