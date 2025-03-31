@@ -1,28 +1,51 @@
-# LLM Agent Research Collection
+# 🤖 Comprehensive LLM Agent Research Collection
 
-This repository contains a comprehensive collection of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications. Our taxonomy provides a structured framework for understanding the rapidly evolving field of LLM agents, from architectural foundations to practical implementations. Our survey paper is available at [link](https://arxiv.org/abs/2503.21460).
+![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2031,%202025-blue)
 
-The collection aims to bridge fragmented research threads by highlighting connections between agent design principles and emergent behaviors. Whether you're a researcher, practitioner, or enthusiast, this curated list offers a valuable resource for navigating the landscape of intelligent agent systems powered by large language models.
+<p align="center">
+  <img src="./figs/fig-overview-agent-survey.png" width="90%" alt="LLM Agent Research Overview">
+</p>
 
-## Overview of LLM Agent Ecosystem
+## 🌟 Overview
 
-This repository contains comprehensive resources for our survey on LLM-based agents. The survey systematically deconstructs LLM agent systems through a methodology-centered taxonomy, connecting architectural foundations, collaboration mechanisms, and evolutionary pathways.
+This repository contains a **comprehensive collection** of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications.
 
-![Research Paper Titles Word Cloud](./figs/fig-overview-agent-survey.png)
+Our taxonomy provides a structured framework for understanding the rapidly evolving field of LLM agents, from architectural foundations to practical implementations. The repository bridges fragmented research threads by highlighting connections between agent design principles and emergent behaviors.
 
-## Survey Timeline and Scope
+📄 **[Read our survey paper here](https://arxiv.org/abs/2503.21460)**
+
+
+## 📊 Statistics & Trends
 
 Our survey covers the rapidly evolving field of LLM agents, with a significant increase in research publications since 2023.
 
-<p align="center">
-  <img src="./figs/wordcloud.png" width="50%" alt="Research Paper Titles Word Cloud">
-</p>
 
 <p align="center">
-  <img src="./figs/year_distribution.png" width="50%" alt="Distribution of Surveyed Papers">
+  <img src="./figs/wordcloud.png" width="45%" alt="Research Paper Titles Word Cloud">
+  <img src="./figs/year_distribution.png" width="45%" alt="Distribution of Surveyed Papers">
 </p>
 
-## Resource List
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Statistics & Trends](#statistics--trends)
+- [Key Categories](#key-categories)
+- [Resource List](#resource-list)
+- [Contributing](#contributing)
+- [Citation](#citation)
+
+## 🔍 Key Categories
+
+- **Agent Construction**: Methodologies and architectures for building LLM agents
+- **Agent Collaboration**: Frameworks for multi-agent interaction and cooperation
+- **Agent Evolution**: Self-improvement and learning capabilities of agents
+- **Tools**: Integration of external tools and APIs with LLM agents
+- **Security**: Security concerns and protections for LLM agent systems
+- **Benchmarks**: Evaluation frameworks and datasets for testing agent capabilities
+- **Applications**: Real-world implementations and use cases
+
+
+## 📚 Resource List
 
 | Title | Section_or_Category | Year | url |
 | --- | --- | --- | --- |
@@ -133,13 +156,14 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | AlphaFlow: autonomous discovery and optimization of multi-step chemistry using a self-driven fluidic lab guided by reinforcement learning | Applications | 2023 | [link](https://www.nature.com/articles/s41467-023-37139-y) |
 | Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents | Applications | 2022 | [link](https://proceedings.mlr.press/v162/huang22a.html) |
 | Stress-testing the resilience of the Austrian healthcare system using agent-based simulation | Applications | 2022 | [link](https://doi.org/10.1038/s41467-022-31766-7) |
-| EgoLife: Towards Egocentric Life Assistant | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/pdf/2503.03803) |
 | AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks | Datasets & Benchmarks | 2025 | [link](https://openreview.net/pdf?id=AC5n7xHuR1) |
 | AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator | Datasets & Benchmarks | 2025 | [link](https://aclanthology.org/2025.coling-main.680.pdf) |
 | Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation | Datasets & Benchmarks | 2025 | [link](https://aclanthology.org/2025.coling-main.223.pdf) |
 | DCA-Bench: A Benchmark for Dataset Curation Agents | Datasets & Benchmarks | 2025 | [link](https://openreview.net/pdf?id=a4sknPttwV) |
 | MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/pdf/2501.14654) |
 | MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering | Datasets & Benchmarks | 2025 | [link](https://openreview.net/pdf?id=6s5uXNWGIh) |
+| EgoLife: Towards Egocentric Life Assistant | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/pdf/2503.03803) |
+| DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?  | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/abs/2409.07703) |
 | AgentBench: Evaluating LLMs as Agents | Datasets & Benchmarks | 2024 | [link](https://openreview.net/pdf?id=zAdUB0aCTQ) |
 | AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents | Datasets & Benchmarks | 2024 | [link](https://aclanthology.org/2024.naacl-demo.19.pdf) |
 | BENCHAGENTS: Automated Benchmark Creation with Agent Interaction | Datasets & Benchmarks | 2024 | [link](https://arxiv.org/pdf/2410.22584) |
@@ -294,7 +318,16 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | WebGPT: Browser-assisted question-answering with human feedback | Tools | 2022 | [link](http://arxiv.org/abs/2112.09332) |
 | Task Bench: A Parameterized Benchmark for Evaluating Parallel Runtime Performance | Tools | 2020 | [link](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a864/1oeOToMWZBC) |
 
-## Citation
+## 🤝 Contributing
+
+We welcome contributions to expand our collection. You can:
+- Submit a pull request to add papers or resources
+- Open an issue to suggest additional papers or resources
+- Submit your paper at [our submission form](https://forms.office.com/r/sW0Zzymi5b) or email us at luo.junyu@outlook.com
+
+We regularly update the repository to include new research.
+
+## 📝 Citation
 
 If you find our survey helpful, please consider citing our work:
 
@@ -309,13 +342,10 @@ If you find our survey helpful, please consider citing our work:
 
 ```
 
-## Contributing
+---
 
-We welcome contributions to expand our collection. You can:
-- Submit a pull request to add papers or resources
-- Open an issue to suggest additional papers or resources
-- Submit your paper at https://forms.office.com/r/sW0Zzymi5b or email me at luo.junyu at outlook.com.
-
-We will regularly update the repository and papers to include these articles.
+<p align="center">
+  <i>For questions or suggestions, please open an issue or contact the repository maintainers.</i>
+</p>
 
 
