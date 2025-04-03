@@ -67,6 +67,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | Autonomous chemical research with large language models | Agent Collaboration | 2023 | [link](https://www.nature.com/articles/s41586-023-06792-0) |
 | Planning with Multi-Constraints via Collaborative Language Agents | Agent Construction | 2025 | [link](https://aclanthology.org/2025.coling-main.672/) |
 | Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making | Agent Construction | 2025 | [link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b631da756d1573c24c9ba9c702fde5a9-Abstract-Datasets_and_Benchmarks_Track.html) |
+| SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent  | Agent Construction | 2025 | [link](https://arxiv.org/abs/2502.08599) |
 | AutoAgents: A Framework for Automatic Agent Generation | Agent Construction | 2024 | [link](https://arxiv.org/abs/2309.17288) |
 | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | Agent Construction | 2024 | [link](https://arxiv.org/abs/2308.00352) |
 | Cognitive Architectures for Language Agents | Agent Construction | 2024 | [link](https://arxiv.org/abs/2309.02427) |
@@ -164,6 +165,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering | Datasets & Benchmarks | 2025 | [link](https://openreview.net/pdf?id=6s5uXNWGIh) |
 | EgoLife: Towards Egocentric Life Assistant | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/pdf/2503.03803) |
 | DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?  | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/abs/2409.07703) |
+| Towards Internet-Scale Training For Agents  | Datasets & Benchmarks | 2025 | [link](https://arxiv.org/abs/2502.06776) |
 | AgentBench: Evaluating LLMs as Agents | Datasets & Benchmarks | 2024 | [link](https://openreview.net/pdf?id=zAdUB0aCTQ) |
 | AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents | Datasets & Benchmarks | 2024 | [link](https://aclanthology.org/2024.naacl-demo.19.pdf) |
 | BENCHAGENTS: Automated Benchmark Creation with Agent Interaction | Datasets & Benchmarks | 2024 | [link](https://arxiv.org/pdf/2410.22584) |
