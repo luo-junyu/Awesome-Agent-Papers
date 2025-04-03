@@ -1,6 +1,12 @@
 # 🤖 Comprehensive LLM Agent Research Collection
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2031,%202025-blue)
+<div align="center">
+
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![commit](https://img.shields.io/github/last-commit/luo-junyu/Awesome-Agent-Papers?color=blue)](https://github.com/luo-junyu/Awesome-Agent-Papers/commits/main)
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/luo-junyu/Awesome-Agent-Papers/pulls)
+
+</div>
 
 <p align="center">
   <img src="./figs/fig-overview-agent-survey.png" width="90%" alt="LLM Agent Research Overview">
