@@ -52,7 +52,6 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 
 ## 📚 Resource List
-
 | Title | Section_or_Category | Year | url |
 | --- | --- | --- | --- |
 | Adaptive Collaboration Strategy for LLMs in Medical Decision Making | Agent Collaboration | 2024 | [link](https://arxiv.org/abs/2404.15155) |
@@ -199,6 +198,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning | Datasets & Benchmarks | 2024 | [link](http://arxiv.org/abs/2402.15506) |
 | AgentTuning: Enabling Generalized Agent Abilities for LLMs | Datasets & Benchmarks | 2024 | [link](https://aclanthology.org/2024.findings-acl.181/) |
 | Executable Code Actions Elicit Better LLM Agents | Datasets & Benchmarks | 2024 | [link](https://proceedings.mlr.press/v235/wang24h.html) |
+| AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents  | Datasets & Benchmarks | 2024 | [link](https://arxiv.org/abs/2407.18901) |
 | FireAct: Toward Language Agent Fine-tuning | Datasets & Benchmarks | 2023 | [link](http://arxiv.org/abs/2310.05915) |
 | Medical large language models are vulnerable to data-poisoning attacks  | Ethics | 2025 | [link](https://www.nature.com/articles/s41591-024-03445-1) |
 | Foundation Models and Fair Use  | Ethics | 2024 | [link](https://www.jmlr.org/papers/v24/23-0569.html) |
