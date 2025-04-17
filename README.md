@@ -33,12 +33,12 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Statistics & Trends](#statistics--trends)
-- [Key Categories](#key-categories)
-- [Resource List](#resource-list)
-- [Contributing](#contributing)
-- [Citation](#citation)
+- [Overview](#-overview)
+- [Statistics & Trends](#-statistics--trends)
+- [Key Categories](#-key-categories)
+- [Resource List](#-resource-list)
+- [Contributing](#-contributing)
+- [Citation](#-citation)
 
 ## 🔍 Key Categories
 
