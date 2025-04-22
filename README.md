@@ -141,6 +141,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 | Exploring Collaboration Mechanisms for LLM Agents | Applications | 2024 | [link](https://aclanthology.org/2024.acl-long.782/) |
 | Simulating Human Society with Large Language Model Agents: City, Social Media, and Economic System | Applications | 2024 | [link](https://dl.acm.org/doi/10.1145/3589335.3641253) |
 | Can large language models transform computational social science? | Applications | 2024 | [link](https://aclanthology.org/2024.cl-1.8/) |
+| SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation | Applications | 2025 | [link](https://arxiv.org/abs/2504.12722) |
 | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems | Applications | 2024 | [link](https://arxiv.org/pdf/2310.09233) |
 | On Generative Agents in Recommendation | Applications | 2024 | [link](https://arxiv.org/abs/2310.10108) |
 | ChatDev: Communicative Agents for Software Development | Applications | 2024 | [link](https://aclanthology.org/2024.acl-long.810/) |
