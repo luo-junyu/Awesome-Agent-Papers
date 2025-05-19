@@ -343,7 +343,7 @@ If you find our survey helpful, please consider citing our work:
 
 @article{agentsurvey2025,
   title={Large Language Model Agent: A Survey on Methodology, Applications and Challenges},
-  author={Junyu Luo and Weizhi Zhang and Ye Yuan and Yusheng Zhao and Junwei Yang and Yiyang Gu and Bohan Wu and Binqi Chen and Ziyue Qiao and Qingqing Long and Rongcheng Tu and Xiao Luo and Wei Ju and Zhiping Xiao and Yifan Wang and Meng Xiao and Chenwu Liu and Jingyang Yuan and Shichang Zhang and Yiqiao Jin and Fan Zhang and Xian Wu and Hanqing Zhao and Dacheng Tao and Philip S. Yu and Ming Zhang},
+  author={Luo, J. and Zhang, W. and Yuan, Y. and others},
   journal={arXiv preprint arXiv:2503.21460},
   year={2025}
 }
