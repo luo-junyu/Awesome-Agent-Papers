@@ -54,6 +54,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 ## 📚 Resource List
 | Title | Section_or_Category | Year | url |
 | --- | --- | --- | --- |
+| Foam-Agent: Towards Automated Intelligent CFD Workflows | Agent Collaboration | 2025 | [link](https://arxiv.org/abs/2505.04997) |
 | Adaptive Collaboration Strategy for LLMs in Medical Decision Making | Agent Collaboration | 2024 | [link](https://arxiv.org/abs/2404.15155) |
 | ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs | Agent Collaboration | 2024 | [link](https://arxiv.org/abs/2309.13007) |
 | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | Agent Collaboration | 2024 | [link](https://arxiv.org/abs/2308.00352) |
