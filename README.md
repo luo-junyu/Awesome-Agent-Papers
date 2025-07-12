@@ -21,15 +21,8 @@ Our taxonomy provides a structured framework for understanding the rapidly evolv
 📄 **[Read our survey paper here](https://arxiv.org/abs/2503.21460)**
 
 
-## 📊 Statistics & Trends
-
 Our survey covers the rapidly evolving field of LLM agents, with a significant increase in research publications since 2023.
 
-
-<p align="center">
-  <img src="./figs/wordcloud.png" width="45%" alt="Research Paper Titles Word Cloud">
-  <img src="./figs/year_distribution.png" width="45%" alt="Distribution of Surveyed Papers">
-</p>
 
 ## 📑 Table of Contents
 
