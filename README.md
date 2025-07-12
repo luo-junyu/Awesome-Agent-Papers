@@ -61,7 +61,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ## 📚 Resource List
 
-### 👥 Agent Collaboration
+### Agent Collaboration
 
 - **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)** (*2025*)
   > The paper presents Foam - Agent, a multi - agent framework automating CFD workflows from natural language. It features unique retrieval, file - generation and error - correction systems, lowering expertise barriers.
@@ -80,6 +80,12 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 - **[C^2: Scalable Auto-Feedback for LLM-based Chart Generation](https://aclanthology.org/2025.naacl-long.232/)** (*2025*)
   > The paper introduces C2, a framework with an auto - feedback provider and a reference - free dataset, eliminating human curation, open - sourced at chartsquared.github.io.
+
+- **[AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102)** (*2025*)
+  > Introduces AgentRxiv, a framework enabling LLM agent labs to share research on a preprint server for collaboration, aiding future AI design with humans.
+
+- **[Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707)** (*2025*)
+  > Proposes multiagent finetuning for language models. Specializes models via multiagent - generated data, preserving diverse reasoning chains for better self - improvement.
 
 - **[Adaptive Collaboration Strategy for LLMs in
 Medical Decision Making](https://arxiv.org/abs/2404.15155)** (*2024*)
@@ -125,6 +131,9 @@ models](https://arxiv.org/abs/2307.04738)** (*2024*)
 - **[AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/pdf/2404.11943)** (*2024*)
   > Presents a visual exploration framework for multi - agent coordination strategy design, converts goals to strategies, allowing user intervention.
 
+- **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138)** (*2024*)
+  > This paper proposes a novel stock trading framework with LLM - powered agents in specialized roles, simulating real - world collaboration to improve trading performance.
+
 - **[AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)** (*2023*)
   > AutoGen is an open - source framework enabling LLM app building with multi - agent conversation, customizable agents, and flexible interaction definition.
 
@@ -135,7 +144,7 @@ models](https://arxiv.org/abs/2307.04738)** (*2024*)
 language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
   > The paper introduces Coscientist, an AI system driven by GPT - 4. It integrates tools, shows potential in research, and demonstrates AI's versatility and efficacy.
 
-### 🏗️ Agent Construction
+### Agent Construction
 
 - **[Planning with Multi-Constraints via Collaborative Language Agents](https://aclanthology.org/2025.coling-main.672/)** (*2025*)
   > This paper proposes PMC, a zero - shot method for LLM - based multi - agent systems. It simplifies complex, constraint - heavy task planning via task decomposition.
@@ -151,6 +160,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[On Architecture of LLM agents](http://www.injoit.ru/index.php/j1/article/view/2057)** (*2025*)
   > The paper discusses LLM agent architecture. Agents are a key area in AI, acting like mashups and robots, and frameworks can simplify their creation.
+
+- **[Unified Mind Model: Reimagining Autonomous Agents in the LLM Era](https://arxiv.org/abs/2503.03459)** (*2025*)
+  > This paper proposes the Unified Mind Model (UMM) for human - level agents. It also develops MindOS to create task - specific agents without programming.
+
+- **[ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)** (*2025*)
+  > Proposes ATLaS to identify critical steps in expert trajectories for LLM agent tuning, reducing cost and enhancing generalization.
 
 - **[AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)** (*2024*)
   > Introduces AutoAgents, a framework generating and coordinating specialized agents per task. Incorporates an observer. Offers new complex - task - tackling perspectives.
@@ -180,7 +195,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
   > Presents Agent Hospital, a hospital simulacrum with LLM - powered agents. Doctor agents evolve without manual labeling, and methods benefit broader apps.
 
 - **[Empowering biomedical discovery with AI agents](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5?&target=_blank)** (*2024*)
-  > Paper proposes "AI scientists" as collaborative agents integrating AI and bio - tools. They combine human and AI abilities and impact multiple bio - areas.
+  > Paper proposes “AI scientists” as collaborative agents integrating AI and bio - tools. They combine human and AI abilities and impact multiple bio - areas.
 
 - **[SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models](https://ieeexplore.ieee.org/abstract/document/10802322)** (*2024*)
   > Proposes SMART-LLM, an LLM - based framework for multi - robot task planning. Creates a benchmark dataset and offers resources on https://sites.google.com/view/smart-llm/.
@@ -203,6 +218,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios](https://arxiv.org/abs/2401.17167)** (*2024*)
   > Presents UltraTool, a benchmark for LLMs in real - world tool use. It evaluates the whole process, independently assesses planning, and removes pre - defined toolset restrictions.
 
+- **[On the Structural Memory of LLM Agents](https://arxiv.org/abs/2412.15266)** (*2024*)
+  > This paper explores how memory structures and retrieval methods affect LLM - based agents, finding task - specific advantages and iterative retrieval's superiority.
+
 - **[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)** (*2023*)
   > Proposes a role - playing communicative agent framework, offers scalable study approach for multi - agent systems, and open - sources library.
 
@@ -221,7 +239,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage](https://arxiv.org/abs/2308.03427)** (*2023*)
   > Presents a framework for LLM - based AI agents, designs two agent types, evaluating TPTU abilities to guide LLM use in AI apps.
 
-### 🌱 Agent Evolution
+### Agent Evolution
 
 - **[Evolutionary optimization of model merging recipes](https://www.nature.com/articles/s42256-024-00975-8)** (*2025*)
   > Proposes an evolutionary approach for model merging, operating in two spaces, enabling cross - domain merging and introducing a new model composition paradigm.
@@ -231,6 +249,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101)** (*2025*)
   > The paper presents KNOWAGENT, using action knowledge base and self - learning to enhance LLM planning and mitigate hallucinations.
+
+- **[STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://arxiv.org/abs/2502.14276)** (*2025*)
+  > Paper proposes STeCa, a framework for LLM agent learning. It constructs calibrated trajectories via step - level reward comparison and LLM reflection.
+
+- **[SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478)** (*2025*)
+  > Introduced ColBench benchmark. Proposed SWEET - RL, using training - time info for critic model, offering step - level rewards to optimize LLM agents.
 
 - **[Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation](https://arxiv.org/pdf/2402.11443)** (*2024*)
   > A benchmark self - evolving multi - agent framework extends benchmarks, uses six operations for fine - grained LLM evaluation, aiding model selection.
@@ -244,7 +268,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[A Survey on Self-Evolution of Large Language Models](https://arxiv.org/pdf/2404.14387)** (*2024*)
   > Presents a framework for LLM self - evolution with four phases. Categorizes objectives, summarizes literature, and points out challenges and future directions.
 
-- **[LLM-Evolve: Evaluation for LLM's Evolving Capability on Benchmarks](https://aclanthology.org/2024.emnlp-main.940.pdf)** (*2024*)
+- **[LLM-Evolve: Evaluation for LLM’s Evolving Capability on Benchmarks](https://aclanthology.org/2024.emnlp-main.940.pdf)** (*2024*)
   > This paper proposes LLM-Evolve, an innovative framework extending benchmarks to sequential settings, enabling LLMs to learn from past experiences.
 
 - **[CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://openreview.net/pdf?id=Sx038qxjek)** (*2024*)
@@ -323,7 +347,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://openreview.net/pdf?id=_3ELRdg2sgI)** (*2022*)
   > Proposes STaR, a technique leveraging few rationale examples and rationale - free data to bootstrap complex reasoning, letting models learn from self - generated reasoning.
 
-### 💡 Applications
+### Applications
 
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*)
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
@@ -356,7 +380,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
   > Paper proposes Motif, a method to interface LLM prior knowledge with agents via intrinsic rewards, yielding intuitive behaviors and progress on tough tasks.
 
 - **[Baba Is AI: Break the Rules to Beat the Benchmark](https://arxiv.org/pdf/2407.13729)** (*2024*)
-  > This paper likely presents a novel approach in action games under "Applications" section, with potential rule - breaking strategies for agents.
+  > This paper likely presents a novel approach in action games under “Applications” section, with potential rule - breaking strategies for agents.
 
 - **[Large language model-empowered agents for simulating macroeconomic activities](https://aclanthology.org/2024.acl-long.829/)** (*2024*)
   > This paper uses large language model-empowered agents to simulate macro - economic activities, offering a novel approach in economic applications.
@@ -395,7 +419,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
   > The paper reveals LLMs in medicine are vulnerable. Just 1.1% weight manipulation can inject incorrect facts, stressing need for security measures.
 
 - **[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560)** (*2023*)
-  > Paper proposes "DEPS", an interactive planning approach with LLMs for multi - task agents, refining plans and showing effectiveness across domains.
+  > Paper proposes “DEPS”, an interactive planning approach with LLMs for multi - task agents, refining plans and showing effectiveness across domains.
 
 - **[Language Models Meet World Models: Embodied Experiences Enhance Language Models](https://arxiv.org/abs/2305.10626.pdf)** (*2023*)
   > Combines language & world models, using embodied experiences. Applicable in simulation games, enhancing model capabilities.
@@ -439,7 +463,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Stress-testing the resilience of the Austrian healthcare system using agent-based simulation](https://doi.org/10.1038/s41467-022-31766-7)** (*2022*)
   > A data - driven agent - based framework quantifies regional healthcare resilience to shocks, helps identify care access bottlenecks and relates systemic to individual indicators.
 
-### 📊 Datasets & Benchmarks
+### Datasets & Benchmarks
 
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*)
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
@@ -467,6 +491,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Towards Internet-Scale Training For Agents](https://arxiv.org/abs/2502.06776)** (*2025*)
   > The paper develops a pipeline for Internet-scale agent training without extensive human annotations, with LLMs handling task gen., execution, and review.
+
+- **[macOSWorld: An Interactive Benchmark for GUI Agents](https://arxiv.org/abs/2506.04135)** (*2025*)
+  > Paper presents macOSWorld, first macOS GUI agent benchmark with multilingual tasks and safety subset, bridging OS evaluation gaps.
+
+- **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (*2025*)
+  > Introduces Humanity's Last Exam (HLE), a multi - modal, broad - coverage benchmark for LLMs, gap shown, and publicly released for research.
 
 - **[AgentBench: Evaluating LLMs as Agents](https://openreview.net/pdf?id=zAdUB0aCTQ)** (*2024*)
   > Presents AgentBench with 8 environments to evaluate LLM agents, identifies failure reasons, and offers improvement strategies like multi - round alignment training.
@@ -555,7 +585,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[FireAct: Toward Language Agent Fine-tuning](http://arxiv.org/abs/2310.05915)** (*2023*)
   > The paper explores LM fine - tuning for language agents. It proposes FireAct using diverse data, revealing benefits and offering experimental insights.
 
-### ⚖️ Ethics
+### Ethics
 
 - **[Medical large language models are vulnerable to data-poisoning attacks](https://www.nature.com/articles/s41591-024-03445-1)** (*2025*)
   > Paper assesses LLM data - poisoning attacks, finds low - ratio misinfo harms models, and proposes a graph - based mitigation strategy.
@@ -587,7 +617,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Defending Against Neural Fake News](https://proceedings.neurips.cc/paper/2019/hash/3e9f0fc9b2f89e043bc6233994dfcf76-Abstract.html)** (*2019*)
   > Presents Grover for controllable text gen to study neural fake - news risks, shows Grover's self - defense value, and discusses ethics.
 
-### 🛡️ Security
+### Security
 
 - **[RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org/pdf/2502.08966)** (*2025*)
   > Paper introduces RTBAS for TBAS, adapting Information Flow Control and using novel screeners to auto - handle tool calls, reducing user burden.
@@ -638,7 +668,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
   > The paper proposes BlockAgents, integrating blockchain into LLM-based multi-agent systems. It features PoT and multi-metric evaluation to mitigate Byzantine behaviors.
 
 - **[PROMPT INFECTION: LLM-TO-LLM PROMPT INJECTION WITHIN MULTI-AGENT SYSTEMS](https://arxiv.org/pdf/2410.07283)** (*2024*)
-  > Reveals LLM-to-LLM prompt injection in multi - agent systems, proposes "Prompt Infection", and "LLM Tagging" defense to enhance security.
+  > Reveals LLM-to-LLM prompt injection in multi - agent systems, proposes “Prompt Infection”, and “LLM Tagging” defense to enhance security.
 
 - **[AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://openreview.net/pdf?id=m1YYAQjO3w)** (*2024*)
   > Introduces AgentDojo, an extensible evaluation framework for AI agents on untrusted data, aiming to foster reliable and robust agent design.
@@ -712,7 +742,10 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196)** (*2024*)
   > Presents first systematic mapping of adversarial attacks on language agents, with a framework and 12 scenarios, stressing risk - understanding urgency.
 
-### 📜 Survey
+### Survey
+
+- **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** (*2025*)
+  > This paper first introduces "full - stack" safety for LLMs, covering the whole lifecycle, with rich literature and unique insights for future research.
 
 - **[Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/pdf/2501.02189)** (*2025*)
   > This paper offers a systematic VLM overview: model info, architectures, benchmarks, applications, and challenges, with details in a GitHub repo.
@@ -828,7 +861,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products](https://dl.acm.org/doi/abs/10.1145/3306618.3314244?casa_token=1ogqoO70pDgAAAAA:7r8-ICJ2Ym55Fg2aaW11gpz7FR15yYHzuqBdGu7ifBfkiMRdbknxo34ItX_GwjeUZPg9k4U22tRX)** (*2019*)
   > This paper analyzes the impact of disclosing biased AI results via Gender Shades audit, showing it can prompt companies to reduce algorithmic disparities.
 
-### 🔧 Tools
+### Tools
 
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*)
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
