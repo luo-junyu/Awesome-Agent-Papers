@@ -342,6 +342,10 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 ### Applications
 
+
+- **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*)
+  > The paper uses LLMs to simulate realistic human behavior in cities, producing lifelike daily routines and crowd patterns. It offers a flexible platform for studying urban dynamics and planning.
+
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*)
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
 
