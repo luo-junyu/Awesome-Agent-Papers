@@ -343,6 +343,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 ### Applications
 
 
+- **[SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://arxiv.org/abs/2403.03636)** (*2025*)
+  > The paper introduces SheetRM, a benchmark for complex spreadsheet tasks, and SheetAgent, an LLM-based agent that improves multi-step reasoning and manipulation accuracy.
+
 - **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*)
   > The paper uses LLMs to simulate realistic human behavior in cities, producing lifelike daily routines and crowd patterns. It offers a flexible platform for studying urban dynamics and planning.
 
@@ -372,6 +375,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047)** (*2025*)
   > The paper reviews LLM - based scientific agents, highlights differences from general agents, and offers a roadmap for scientific discovery.
+
+- **[CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis](https://arxiv.org/abs/2407.09811)** (*2025*)
+  > Introduces CellAgent, an LLM-driven multi-agent system for fully automated scRNA-seq analysis, achieving expert-level performance through hierarchical planning and self-optimization.
 
 - **[Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/pdf/2310.00166)** (*2024*)
   > Paper proposes Motif, a method to interface LLM prior knowledge with agents via intrinsic rewards, yielding intuitive behaviors and progress on tough tasks.
@@ -862,6 +868,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*)
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
+
+- **[DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/abs/2504.18243)** (*2025*)
+  > DualRAG is a dual-process framework for multi-hop QA that integrates reasoning with external retrieval tools to improve answer quality.
 
 - **[Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval](http://arxiv.org/abs/2408.01875)** (*2024*)
   > Introduces Re-Invoke, an unsupervised tool retrieval method for large toolsets, with query synthesis, intent extraction, and multi - view ranking.
