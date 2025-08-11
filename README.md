@@ -160,6 +160,18 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)** (*2025*)
   > Proposes ATLaS to identify critical steps in expert trajectories for LLM agent tuning, reducing cost and enhancing generalization.
 
+- **[Cognitive AI Memory: A Framework for More Human-like Memory in LLMs](https://arxiv.org/abs/2505.13044)** (*2025*)
+  > The paper proposes CAIM framework inspired by cognitive AI for LLMs, with three modules, enhancing long - term human - AI interaction by holistic memory modeling.
+
+- **[Adaptive Graph Pruning: A Task-Adaptive Multi-Agent Collaboration Framework](https://arxiv.org/abs/2506.02951)** (*2025*)
+  > Proposes Adaptive Graph Pruning (AGP), a task - adaptive multi - agent framework jointly optimizing agent quantity and communication topology via a two - stage strategy.
+
+- **[Agents of Change: Self-Evolving LLM Agents for Strategic Planning](https://arxiv.org/abs/2506.04651)** (*2025*)
+  > Puts LLM agents in strategic - challenging environments, uses Catan game for benchmarking, and proposes a multi - agent architecture for self - improvement.
+
+- **[Reinforcing Large Language Model Reasoning through Multi-Agent Reflection](https://arxiv.org/abs/2506.08379)** (*2025*)
+  > The paper models multi - turn refinement as an MDP and introduces DPSDP, a RL algorithm for iterative answer refinement, showing theoretical and empirical benefits.
+
 - **[AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)** (*2024*)
   > Introduces AutoAgents, a framework generating and coordinating specialized agents per task. Incorporates an observer. Offers new complex - task - tackling perspectives.
 
@@ -373,6 +385,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047)** (*2025*)
   > The paper reviews LLM - based scientific agents, highlights differences from general agents, and offers a roadmap for scientific discovery.
 
+- **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*)
+  > The paper presents CitySim, an urban simulator using LLMs. It uses recursive value - driven approach and endows agents with key features, enabling scalable urban studies.
+
+- **[A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools](https://arxiv.org/abs/2506.20743)** (*2025*)
+  > This paper surveys FMs in MatSci, introducing a taxonomy, discussing advances, reviewing resources, assessing pros & cons, and suggesting future directions.
+
+- **[An Auditable Agent Platform For Automated Molecular Optimisation](https://www.arxiv.org/abs/2508.03444)** (*2025*)
+  > A hierarchical agent framework automates molecular optimisation, creates auditable reasoning trajectories, and converts LLMs into auditable design systems.
+
 - **[Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/pdf/2310.00166)** (*2024*)
   > Paper proposes Motif, a method to interface LLM prior knowledge with agents via intrinsic rewards, yielding intuitive behaviors and progress on tough tasks.
 
@@ -494,6 +515,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Humanity's Last Exam](https://arxiv.org/abs/2501.14249)** (*2025*)
   > Introduces Humanity's Last Exam (HLE), a multi - modal, broad - coverage benchmark for LLMs, gap shown, and publicly released for research.
+
+- **[MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models](https://arxiv.org/abs/2507.12806)** (*2025*)
+  > Introduces MCPEval, an MCP - based open - source framework for automating LLM agent evaluation, standardizing metrics and reducing manual work.
+
+- **[IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis](https://arxiv.org/abs/2505.18223)** (*2025*)
+  > Introduces IDA - Bench, a novel benchmark for LLMs in multi - round data analysis, emphasizing balance between instruction - following and reasoning.
+
+- **[SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks](https://arxiv.org/abs/2506.11791)** (*2025*)
+  > Introduces SEC - bench, an automated benchmarking framework for LLM agents on real - world security tasks, with a novel multi - agent scaffold to create datasets.
 
 - **[AgentBench: Evaluating LLMs as Agents](https://openreview.net/pdf?id=zAdUB0aCTQ)** (*2024*)
   > Presents AgentBench with 8 environments to evaluate LLM agents, identifies failure reasons, and offers improvement strategies like multi - round alignment training.
@@ -746,6 +776,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/pdf/2501.02189)** (*2025*)
   > This paper offers a systematic VLM overview: model info, architectures, benchmarks, applications, and challenges, with details in a GitHub repo.
+
+- **[The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems](https://arxiv.org/abs/2507.02097)** (*2025*)
+  > This paper explores LLM agents in recommender systems, introducing a formalism, use - cases, challenges, and paves the way for next - gen services.
 
 - **[Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks](https://arxiv.org/pdf/2502.08586)** (*2025*)
   > Analyzes unique security & privacy vulnerabilities of LLM agents, provides attack taxonomy, and conducts simple attacks on popular agents.
