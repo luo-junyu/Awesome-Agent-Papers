@@ -893,6 +893,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 ### Tools
 
+- **[VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255)** (*2025*)
+  > VTool-R1 trains VLMs to generate multimodal reasoning chains using visual tools, improving accuracy without process supervision.
+
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*)
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
 
