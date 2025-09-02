@@ -80,6 +80,12 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 - **[Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707)** (*2025*)
   > Proposes multiagent finetuning for language models. Specializes models via multiagent - generated data, preserving diverse reasoning chains for better self - improvement.
 
+- **[From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium](https://arxiv.org/abs/2506.08292)** (*2025*)
+  > Proposes ECON, a hierarchical RL paradigm recasting multi - LLM coordination as a BNE game, with tighter regret bound and scalability.
+
+- **[Chain of Agents: Large language models collaborating on long-context tasks](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/)** (*2025*)
+  > Proposes Chain-of-Agents, a training-free, task-agnostic framework using LLM collaboration for long-context tasks, outperforming RAG and long-context LLMs.
+
 - **[Adaptive Collaboration Strategy for LLMs in
 Medical Decision Making](https://arxiv.org/abs/2404.15155)** (*2024*)
   > Proposes Medical Decisionmaking Agents (MDAgents) to assign LLM collaboration structures, adapting to task complexity and exploring group consensus.
@@ -172,6 +178,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[Reinforcing Large Language Model Reasoning through Multi-Agent Reflection](https://arxiv.org/abs/2506.08379)** (*2025*)
   > The paper models multi - turn refinement as an MDP and introduces DPSDP, a RL algorithm for iterative answer refinement, showing theoretical and empirical benefits.
 
+- **[Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)** (*2025*)
+  > Proposes Memory - R1, an RL framework with two agents for LLMs to actively manage and utilize external memory, offering insights into RL - enabled behavior.
+
+- **[BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens](https://arxiv.org/abs/2508.17196)** (*2025*)
+  > Introduces BudgetThinker, a framework for budget - aware LLM reasoning. Inserts control tokens and uses a two - stage training pipeline for efficient, controllable reasoning.
+
+- **[A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110)** (*2025*)
+  > Paper proposes an agentic memory system for LLMs, organizing memories like Zettelkasten, enabling dynamic updates and more adaptive memory management.
+
 - **[AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)** (*2024*)
   > Introduces AutoAgents, a framework generating and coordinating specialized agents per task. Incorporates an observer. Offers new complex - task - tackling perspectives.
 
@@ -260,6 +275,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478)** (*2025*)
   > Introduced ColBench benchmark. Proposed SWEET - RL, using training - time info for critic model, offering step - level rewards to optimize LLM agents.
+
+- **[DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/abs/2504.18243)** (*2025*)
+  > The paper proposes DualRAG, a dual - process framework integrating reasoning and retrieval for MHQA. Its coupled processes form a cycle and work well across scales.
+
+- **[Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.12800)** (*2025*)
+  > Proposes Atomic Thought paradigm and Atom - Searcher RL framework, integrating thought units and rewards for better agentic deep research with unique supervision and reasoning.
+
+- **[PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning](https://arxiv.org/abs/2508.21104)** (*2025*)
+  > Proposes PVPO, a RL method with advantage reference anchor and pre - sampling. Corrects bias, cuts rollout reliance, and selects high - gain data.
 
 - **[Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation](https://arxiv.org/pdf/2402.11443)** (*2024*)
   > A benchmark self - evolving multi - agent framework extends benchmarks, uses six operations for fine - grained LLM evaluation, aiding model selection.
@@ -354,10 +378,6 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 ### Applications
 
-
-- **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*)
-  > The paper uses LLMs to simulate realistic human behavior in cities, producing lifelike daily routines and crowd patterns. It offers a flexible platform for studying urban dynamics and planning.
-
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*)
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
 
@@ -393,6 +413,21 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[An Auditable Agent Platform For Automated Molecular Optimisation](https://www.arxiv.org/abs/2508.03444)** (*2025*)
   > A hierarchical agent framework automates molecular optimisation, creates auditable reasoning trajectories, and converts LLMs into auditable design systems.
+
+- **[PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation](https://arxiv.org/abs/2508.21720)** (*2025*)
+  > A training - free PosterForest framework is proposed. It uses Poster Tree and multi - agent collaboration for poster generation, addressing structure and integration challenges.
+
+- **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](https://arxiv.org/abs/2508.21803)** (*2025*)
+  > A collaborative multi - agent system (MAS) mimicking a clinical team analyzes SOAP notes' S&O sections, offering a path to better clinical decision support tools.
+
+- **[Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2508.21365)** (*2025*)
+  > Proposes Think in Games (TiG) framework enabling LLMs to gain procedural knowledge via game - env interaction, bridging knowledge gaps and enhancing transparency.
+
+- **[AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://arxiv.org/abs/2506.13131)** (*2025*)
+  > The paper presents AlphaEvolve, an evolutionary coding agent. It autonomously improves algorithms, discovers new ones, and broadens automated discovery scope.
+
+- **[Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)** (*2025*)
+  > Introduces Agent Laboratory, an LLM - based framework for full - cycle research. It cuts costs, benefits from human feedback, and frees researchers for ideation.
 
 - **[Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/pdf/2310.00166)** (*2024*)
   > Paper proposes Motif, a method to interface LLM prior knowledge with agents via intrinsic rewards, yielding intuitive behaviors and progress on tough tasks.
@@ -435,6 +470,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Medical large language models are susceptible to targeted misinformation attacks](https://doi.org/10.1038/s41746-024-01282-7)** (*2024*)
   > The paper reveals LLMs in medicine are vulnerable. Just 1.1% weight manipulation can inject incorrect facts, stressing need for security measures.
+
+- **[CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis](https://arxiv.org/abs/2407.09811)** (*2024*)
+  > Introduces CellAgent, an LLM - driven multi - agent framework for scRNA - seq analysis. It has expert roles, decision - making and self - iterative mechanisms, reducing workload.
 
 - **[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560)** (*2023*)
   > Paper proposes “DEPS”, an interactive planning approach with LLMs for multi - task agents, refining plans and showing effectiveness across domains.
@@ -525,6 +563,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks](https://arxiv.org/abs/2506.11791)** (*2025*)
   > Introduces SEC - bench, an automated benchmarking framework for LLM agents on real - world security tasks, with a novel multi - agent scaffold to create datasets.
 
+- **[MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2508.21475)** (*2025*)
+  > Introduces MMSearch - Plus benchmark for multimodal browsing agents, with novel curation and agent framework, addressing genuine multimodal challenges.
+
+- **[MultiAgentBench : Evaluating the Collaboration and Competition of LLM agents](https://aclanthology.org/2025.acl-long.421/)** (*2025*)
+  > This paper introduces MultiAgentBench for evaluating multi - agent systems in diverse scenarios, assesses protocols and strategies like cognitive planning, and will release code and data.
+
+- **[Establishing Best Practices for Building Rigorous Agentic Benchmarks](https://arxiv.org/abs/2507.02825)** (*2025*)
+  > Many agentic benchmarks have setup or reward issues. The paper introduces ABC guidelines to make agentic evaluation rigorous.
+
 - **[AgentBench: Evaluating LLMs as Agents](https://openreview.net/pdf?id=zAdUB0aCTQ)** (*2024*)
   > Presents AgentBench with 8 environments to evaluate LLM agents, identifies failure reasons, and offers improvement strategies like multi - round alignment training.
 
@@ -609,6 +656,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901)** (*2024*)
   > Built AppWorld Engine and Benchmark to address gaps in existing tool - use benchmarks, enabling rich and interactive code gen. for agents.
 
+- **[SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://arxiv.org/abs/2403.03636)** (*2024*)
+  > The paper introduces SheetRM benchmark and proposes SheetAgent, an LLM - based agent with three modules, enabling autonomous spreadsheet reasoning and manipulation.
+
 - **[FireAct: Toward Language Agent Fine-tuning](http://arxiv.org/abs/2310.05915)** (*2023*)
   > The paper explores LM fine - tuning for language agents. It proposes FireAct using diverse data, revealing benefits and offering experimental insights.
 
@@ -666,6 +716,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways](https://dl.acm.org/doi/pdf/10.1145/3716628)** (*2025*)
   > This paper categorizes emerging security threats to AI agents into four knowledge gaps, aiming to inspire research for more secure agent apps.
+
+- **[SAGA: A Security Architecture for Governing AI Agentic Systems](https://arxiv.org/abs/2504.21034)** (*2025*)
+  > Proposes SAGA, a security architecture for governing agentic systems, offering user oversight and fine - grained access control, enabling secure agent deployment.
+
+- **[WebInject: Prompt Injection Attack to Web Agents](https://arxiv.org/abs/2505.11717)** (*2025*)
+  > Proposes WebInject, a prompt injection attack on web agents. Adds pixel perturbation, trains NN for mapping, and solves optimization problem.
 
 - **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](https://arxiv.org/abs/2502.12575)** (*2025*)
   > Proposes Dynamically Encrypted Multi - Backdoor Implantation Attack with dynamic encryption and sub - fragments to bypass safety audits. Also presents AgentBackdoorEval dataset.
@@ -773,6 +829,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** (*2025*)
   > This paper first introduces "full - stack" safety for LLMs, covering the whole lifecycle, with rich literature and unique insights for future research.
+
+- **[Trust but Verify! A Survey on Verification Design for Test-time Scaling](https://arxiv.org/abs/2508.16665)** (*2025*)
+  > This survey covers diverse TTS verification approaches, presents a unified view of verifier training, filling a gap in the literature.
+
+- **[A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers](https://arxiv.org/abs/2508.21148)** (*2025*)
+  > This survey reframes Sci - LLMs development around data, analyzes datasets, evaluation, and proposes a shift to closed - loop systems for scientific discovery.
+
+- **[Evaluation and Benchmarking of LLM Agents: A Survey](https://arxiv.org/abs/2507.21504)** (*2025*)
+  > Presents a 2D taxonomy for LLM agent evaluation, highlights enterprise challenges, and identifies future research directions for systematic assessment.
 
 - **[Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/pdf/2501.02189)** (*2025*)
   > This paper offers a systematic VLM overview: model info, architectures, benchmarks, applications, and challenges, with details in a GitHub repo.
@@ -895,6 +960,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*)
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
+
+- **[VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255)** (*2025*)
+  > Introduces VTool - R1, the first framework training VLMs for multimodal thought chains. Integrates visual tools into RFT, enabling strategic tool use without process supervision.
 
 - **[Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval](http://arxiv.org/abs/2408.01875)** (*2024*)
   > Introduces Re-Invoke, an unsupervised tool retrieval method for large toolsets, with query synthesis, intent extraction, and multi - view ranking.
