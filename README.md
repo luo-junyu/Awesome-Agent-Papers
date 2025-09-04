@@ -270,6 +270,18 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101)** (*2025*)
   > The paper presents KNOWAGENT, using action knowledge base and self - learning to enhance LLM planning and mitigate hallucinations.
 
+- **[VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models](https://sites.google.com/view/evt-recovery-assistant)** (*2025*)
+  > The paper introduces a novel self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to address the limitations of current active visual tracking systems in recovering from tracking failure..
+
+- **[Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://sites.google.com/view/richelieu-diplomacy)** (*2025*)
+  > The paper proposes a mixed cooperative-competitive multi-agent game, where a target and multiple distractors form a collaborative team to play against a tracker and make it fail to follow.
+
+- **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://sites.google.com/view/desire-driven-autonomy)** (*2025*)
+  > The paper presents a desire-driven autonomy framework to guide a Large Language Model-based ~(LLM-based) agent to simulate human-like daily activities.
+
+- **[CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games](https://aclanthology.org/2025.acl-long.389/)** (*2025*)
+  > Introduced CoMet, a framework that enables LLM-based agents to engage in metaphor processing.
+
 - **[STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://arxiv.org/abs/2502.14276)** (*2025*)
   > Paper proposes STeCa, a framework for LLM agent learning. It constructs calibrated trajectories via step - level reward comparison and LLM reflection.
 
@@ -538,6 +550,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://openreview.net/pdf?id=6s5uXNWGIh)** (*2025*)
   > Introduced MLE - bench for evaluating AI agents in ML engineering. Curated tasks, set baselines, evaluated models, and opened - sourced code for future research.
+
+- **[UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](http://unrealzoo.site/)** (*2025*)
+  > The paper introduces UnrealZoo, a collection of over 100 photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of open-world environments.
+
+- **[Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs](http://unrealzoo.site/)** (*2025*)
+  > The paper introduces CK-Arena, a multi-agent interaction game built upon the Undercover game, designed to evaluate the capacity of LLMs to reason with concepts in interactive settings.
 
 - **[EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/pdf/2503.03803)** (*2025*)
   > Introduced EgoLife project for egocentric life assistant. Created EgoLife Dataset and EgoLifeQA tasks for daily life assistance.
