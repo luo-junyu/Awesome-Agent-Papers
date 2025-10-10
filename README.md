@@ -86,6 +86,15 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 - **[Chain of Agents: Large language models collaborating on long-context tasks](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/)** (*2025*)
   > Proposes Chain-of-Agents, a training-free, task-agnostic framework using LLM collaboration for long-context tasks, outperforming RAG and long-context LLMs.
 
+- **[CS-Agent: LLM-based Community Search via Dual-agent Collaboration](https://arxiv.org/abs/2508.09549)** (*2025*)
+  > Proposes CS-Agent with dual-agent collaboration (Solver, Validator) and Decider for LLM-based community search, addressing limitations without fine-tuning.
+
+- **[MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use](https://arxiv.org/abs/2508.18669)** (*2025*)
+  > MUA-RL integrates LLM-simulated users into RL loop for agentic tool use, enabling dynamic multi-turn user interaction learning.
+
+- **[CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games](https://aclanthology.org/2025.acl-long.389/)** (*2025*)
+  > CoMet introduces a framework for LLM-based agents to process metaphors, combining a hypothesis-based reasoner and a self-reflective generator. This novel approach enhances strategic, covert communication in multi-agent language games through nuanced metaphor interpretation and application.
+
 - **[Adaptive Collaboration Strategy for LLMs in
 Medical Decision Making](https://arxiv.org/abs/2404.15155)** (*2024*)
   > Proposes Medical Decisionmaking Agents (MDAgents) to assign LLM collaboration structures, adapting to task complexity and exploring group consensus.
@@ -187,6 +196,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110)** (*2025*)
   > Paper proposes an agentic memory system for LLMs, organizing memories like Zettelkasten, enabling dynamic updates and more adaptive memory management.
 
+- **[MemoCue: Empowering LLM-Based Agents for Human Memory Recall via Strategy-Guided Querying](https://arxiv.org/abs/2507.23633)** (*2025*)
+  > Proposes MemoCue, a strategy-guided agent with Recall Router framework, using 5W Recall Map and hierarchical recall tree to enhance memory recall via cue-rich queries.
+
+- **[Analyzing Information Sharing and Coordination in Multi-Agent Planning](https://arxiv.org/abs/2508.12981)** (*2025*)
+  > This paper constructs an LLM-based MAS for travel planning, introducing a notebook for structured info sharing and an orchestrator for reflective coordination to enhance long-horizon planning.
+
 - **[AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)** (*2024*)
   > Introduces AutoAgents, a framework generating and coordinating specialized agents per task. Incorporates an observer. Offers new complex - task - tackling perspectives.
 
@@ -270,18 +285,6 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101)** (*2025*)
   > The paper presents KNOWAGENT, using action knowledge base and self - learning to enhance LLM planning and mitigate hallucinations.
 
-- **[VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models](https://sites.google.com/view/evt-recovery-assistant)** (*2025*)
-  > The paper introduces a novel self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to address the limitations of current active visual tracking systems in recovering from tracking failure..
-
-- **[Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://sites.google.com/view/richelieu-diplomacy)** (*2025*)
-  > The paper proposes a mixed cooperative-competitive multi-agent game, where a target and multiple distractors form a collaborative team to play against a tracker and make it fail to follow.
-
-- **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://sites.google.com/view/desire-driven-autonomy)** (*2025*)
-  > The paper presents a desire-driven autonomy framework to guide a Large Language Model-based ~(LLM-based) agent to simulate human-like daily activities.
-
-- **[CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games](https://aclanthology.org/2025.acl-long.389/)** (*2025*)
-  > Introduced CoMet, a framework that enables LLM-based agents to engage in metaphor processing.
-
 - **[STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://arxiv.org/abs/2502.14276)** (*2025*)
   > Paper proposes STeCa, a framework for LLM agent learning. It constructs calibrated trajectories via step - level reward comparison and LLM reflection.
 
@@ -296,6 +299,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning](https://arxiv.org/abs/2508.21104)** (*2025*)
   > Proposes PVPO, a RL method with advantage reference anchor and pre - sampling. Corrects bias, cuts rollout reliance, and selects high - gain data.
+
+- **[SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](https://arxiv.org/abs/2508.02085)** (*2025*)
+  > SE-Agent optimizes multi-step reasoning via self-evolution with revision, recombination, refinement to expand search space and leverage cross-trajectory inspiration.
+
+- **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652)** (*2025*)
+  > Models LLM collaboration as cooperative MARL, develops MAGRPO algorithm to enable effective cooperation without complex individual rewards.
+
+- **[VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models](https://arxiv.org/abs/2505.20718)** (*2025*)
+  > This paper introduces a self-improving framework that enhances embodied visual tracking by integrating a VLM. It uses a novel memory-augmented self-reflection mechanism to enable the VLM to learn from failures and assist in proactive recovery.
 
 - **[Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation](https://arxiv.org/pdf/2402.11443)** (*2024*)
   > A benchmark self - evolving multi - agent framework extends benchmarks, uses six operations for fine - grained LLM evaluation, aiding model selection.
@@ -350,6 +362,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://aclanthology.org/2024.acl-long.570/)** (*2024*)
   > Existing LLMs' tool - use accuracy is low. A novel simulated trial - and - error method is proposed, inspired by biological systems, for better tool learning.
+
+- **[Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://arxiv.org/abs/2407.06813)** (*2024*)
+  > This paper introduces a self-evolving LLM-based agent for Diplomacy that integrates strategic planning, goal-oriented negotiation, and a novel self-play mechanism for autonomous evolution without human intervention.
+
+- **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)** (*2024*)
+  > This paper introduces a desire-driven autonomous agent (D2A) that uses a dynamic Value System to enable an LLM to autonomously propose and select tasks, motivated by intrinsic human-like needs rather than explicit instructions.
 
 - **[AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)** (*2023*)
   > AlpacaFarm addresses challenges in LLM development. It simulates feedback cheaply, offers evaluation and method implementations, validating end - to - end.
@@ -440,6 +458,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)** (*2025*)
   > Introduces Agent Laboratory, an LLM - based framework for full - cycle research. It cuts costs, benefits from human feedback, and frees researchers for ideation.
+
+- **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*)
+  > Proposes CitySim using LLMs to simulate urban behaviors. Agents have beliefs, goals, memory. It's a scalable testbed for urban phenomena.
 
 - **[Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/pdf/2310.00166)** (*2024*)
   > Paper proposes Motif, a method to interface LLM prior knowledge with agents via intrinsic rewards, yielding intuitive behaviors and progress on tough tasks.
@@ -551,12 +572,6 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://openreview.net/pdf?id=6s5uXNWGIh)** (*2025*)
   > Introduced MLE - bench for evaluating AI agents in ML engineering. Curated tasks, set baselines, evaluated models, and opened - sourced code for future research.
 
-- **[UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](http://unrealzoo.site/)** (*2025*)
-  > The paper introduces UnrealZoo, a collection of over 100 photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of open-world environments.
-
-- **[Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs](http://unrealzoo.site/)** (*2025*)
-  > The paper introduces CK-Arena, a multi-agent interaction game built upon the Undercover game, designed to evaluate the capacity of LLMs to reason with concepts in interactive settings.
-
 - **[EgoLife: Towards Egocentric Life Assistant](https://arxiv.org/pdf/2503.03803)** (*2025*)
   > Introduced EgoLife project for egocentric life assistant. Created EgoLife Dataset and EgoLifeQA tasks for daily life assistance.
 
@@ -589,6 +604,18 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Establishing Best Practices for Building Rigorous Agentic Benchmarks](https://arxiv.org/abs/2507.02825)** (*2025*)
   > Many agentic benchmarks have setup or reward issues. The paper introduces ABC guidelines to make agentic evaluation rigorous.
+
+- **[UserBench: An Interactive Gym Environment for User-Centric Agents](https://arxiv.org/abs/2507.22034)** (*2025*)
+  > Introduces UserBench, an interactive environment with simulated users to evaluate agents on proactive collaboration. It measures their ability to clarify vague, evolving goals through multi-turn dialogue and tool use, highlighting a critical gap between task completion and user alignment.
+
+- **[PillagerBench: A Competitive Multi-Agent Benchmark for Evaluating LLM-based Agents in Minecraft](https://arxiv.org/abs/2509.06235)** (*2025*)
+  > This paper introduces PillagerBench, a benchmark for competitive multi-agent evaluation in Minecraft, and TactiCrafter, an agent that uses human-readable tactics and learns causal dependencies to adapt to opponents.
+
+- **[UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](https://arxiv.org/abs/2412.20977)** (*2025*)
+  > UnrealZoo is a high-fidelity 3D virtual world platform with diverse entities and enhanced tools for embodied AI. It enables efficient multi-agent training and reveals that environmental diversity is crucial for developing generalizable agents that can handle open-world complexity.
+
+- **[Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs](https://arxiv.org/abs/2505.17512)** (*2025*)
+  > CK-Arena introduces a multi-agent game benchmark to evaluate LLMs' conceptual reasoning through interactive tasks like describing and differentiating concepts, moving beyond static factual recall.
 
 - **[AgentBench: Evaluating LLMs as Agents](https://openreview.net/pdf?id=zAdUB0aCTQ)** (*2024*)
   > Presents AgentBench with 8 environments to evaluate LLM agents, identifies failure reasons, and offers improvement strategies like multi - round alignment training.
@@ -741,6 +768,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 - **[WebInject: Prompt Injection Attack to Web Agents](https://arxiv.org/abs/2505.11717)** (*2025*)
   > Proposes WebInject, a prompt injection attack on web agents. Adds pixel perturbation, trains NN for mapping, and solves optimization problem.
 
+- **[Web Fraud Attacks on LLM-driven Multi-Agent Systems](https://arxiv.org/abs/2509.01211)** (*2025*)
+  > This paper introduces Web Fraud Attacks, a novel method exploiting vulnerabilities in LLM-driven multi-agent systems by inducing them to visit malicious websites through domain tampering and link camouflage, bypassing complex jailbreaking techniques.
+
+- **[Attacking LLMs and AI Agents: Advertisement Embedding Attacks Against Large Language Models](https://arxiv.org/abs/2508.17674)** (*2025*)
+  > Introduces Advertisement Embedding Attacks (AEA), a novel threat that hijacks LLMs to inject covert promotional or malicious content into outputs. It details two low-cost attack vectors and proposes a prompt-based defense, highlighting a critical gap in AI security.
+
 - **[DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent](https://arxiv.org/abs/2502.12575)** (*2025*)
   > Proposes Dynamically Encrypted Multi - Backdoor Implantation Attack with dynamic encryption and sub - fragments to bypass safety audits. Also presents AgentBackdoorEval dataset.
 
@@ -856,6 +889,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*)
 
 - **[Evaluation and Benchmarking of LLM Agents: A Survey](https://arxiv.org/abs/2507.21504)** (*2025*)
   > Presents a 2D taxonomy for LLM agent evaluation, highlights enterprise challenges, and identifies future research directions for systematic assessment.
+
+- **[A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407)** (*2025*)
+  > This paper provides a comprehensive survey of self-evolving AI agents, introducing a unified framework and reviewing techniques, domain-specific strategies, evaluation, safety and ethics to bridge foundation models and lifelong agentic systems.
+
+- **[Evaluation and Benchmarking of LLM Agents: A Survey](https://arxiv.org/abs/2507.21504)** (*2025*)
+  > This survey introduces a two-dimensional taxonomy for organizing LLM agent evaluation methods and highlights critical enterprise challenges, providing a systematic framework for researchers and practitioners to assess agents for real-world deployment.
 
 - **[Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey](https://arxiv.org/pdf/2501.02189)** (*2025*)
   > This paper offers a systematic VLM overview: model info, architectures, benchmarks, applications, and challenges, with details in a GitHub repo.
