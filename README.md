@@ -56,6 +56,9 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ### Agent Collaboration
 
+- **[Cache-to-Cache: Direct Semantic Communication Between LLMs](https://arxiv.org/abs/2510.03215)** (*2025*)
+  > Proposes Cache-to-Cache (C2C), a novel paradigm for direct semantic communication between LLMs via KV-Cache, avoiding text intermediation and token-by-token generation latency while preserving rich semantic information.
+
 - **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)** (*2025*)
   > The paper presents Foam - Agent, a multi - agent framework automating CFD workflows from natural language. It features unique retrieval, file - generation and error - correction systems, lowering expertise barriers.
 
