@@ -420,6 +420,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Applications
 
+- **[Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems](https://aclanthology.org/2025.emnlp-main.956)** (*2025*) `EMNLP`
+  > The paper proposes an interaction-centric agent simulation platform for dynamic recommender systems evaluation.
+
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*) `npj Digital Medicine`
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
 
