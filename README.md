@@ -575,6 +575,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*) `ICLR`
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
 
+- **[AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems](https://arxiv.org/abs/2602.11510)** (*2026*) `Arxiv`
+  > AgentLeak introduces a rigorous evaluation framework designed to quantify data leakage risks in LLM agents, exposing critical vulnerabilities in their handling of private information.
+
 - **[AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://aclanthology.org/2025.coling-main.680.pdf)** (*2025*) `*ACL`
   > Introduced AI Hospital for simulating medical interactions, developed MVME benchmark, proposed dispute - resolution mechanism to boost LLMs' clinical abilities.
 
