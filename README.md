@@ -56,6 +56,9 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ### Agent Collaboration
 
+- **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** (*2026*) `Arxiv`
+  > Introduces C3, a decision-level credit assignment method for multi-agent LLM collaboration that uses fixed-context counterfactual replay and a leave-one-out baseline under terminal-only feedback.
+
 - **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)** (*2025*) `Arxiv`
   > The paper presents Foam - Agent, a multi - agent framework automating CFD workflows from natural language. It features unique retrieval, file - generation and error - correction systems, lowering expertise barriers.
 
