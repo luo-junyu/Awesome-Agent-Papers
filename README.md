@@ -72,6 +72,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
   > Paper analyzes existing LLM agent protocols, proposes a classification, explores future directions for next - gen protocols.
 
 - **[C^2: Scalable Auto-Feedback for LLM-based Chart Generation](https://aclanthology.org/2025.naacl-long.232/)** (*2025*) `*ACL`
+- **[Prefactor](https://prefactor.tech/)** (*2023*) `Website` > Provides runtime visibility, governance, and observability for AI agents, with features like policy enforcement, identity management, and PII detection, integrating with major agent frameworks.
   > The paper introduces C2, a framework with an auto - feedback provider and a reference - free dataset, eliminating human curation, open - sourced at chartsquared.github.io.
 
 - **[AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102)** (*2025*) `Arxiv`
