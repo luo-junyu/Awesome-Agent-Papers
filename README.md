@@ -771,6 +771,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Security
 
+- **[Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509)** (*2026*) `Arxiv` [[Code](https://github.com/wuyoscar/ISC-Bench)]
+  > Reveals a novel safety failure mode where LLM agents produce harmful content as a side effect of completing normal professional tasks — no adversarial prompting needed. The agentic execution mode shows agents autonomously generating dangerous data when given legitimate ML pipelines. Jailbreaks any frontier LLM in pass@3.
+
 - **[RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org/pdf/2502.08966)** (*2025*) `Arxiv`
   > Paper introduces RTBAS for TBAS, adapting Information Flow Control and using novel screeners to auto - handle tool calls, reducing user burden.
 
