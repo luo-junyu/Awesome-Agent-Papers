@@ -421,7 +421,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 ### Applications
 
 - **[OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918)** (*2025*) `Arxiv`
-  > A multi-agent system that turns natural-language optimization problems into runnable solver code. Uses a 4-stage pipeline with UCB-based plan selection and can mix different LLMs across roles. Hits 88.1% on NLP4LP (up from 71.6%) and 82.3% on Optibench.
+  > A multi-agent system that turns natural-language optimization problems into runnable solver code. Uses a 4-stage pipeline with UCB-based plan selection and can mix different LLMs across roles. Achieves 88.1% on NLP4LP (up from 71.6%) and 82.3% on Optibench.
 
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*) `npj Digital Medicine`
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
