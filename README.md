@@ -12,6 +12,7 @@
   <img src="./figs/fig-overview-agent-survey.png" width="90%" alt="LLM Agent Research Overview">
 </p>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with task registry, quality gates, and automated delegation.
 ## 🌟 Overview
 
 This repository contains a **comprehensive collection** of research papers on Large Language Model (LLM) agents. We organize papers across key categories including agent construction, collaboration mechanisms, evolution, tools, security, benchmarks, and applications.
