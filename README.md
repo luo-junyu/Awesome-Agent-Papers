@@ -1105,6 +1105,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](http://arxiv.org/abs/2306.03314)** (*2023*) `Arxiv`
   > A novel multi - agent framework enhances LLMs' capabilities. It addresses limitations and shows potential in AGI via diverse case - studies.
 
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** (*2025*) `Tool`
+  > Agent-native CLI for AI-powered outbound. Source 450M+ contacts, run email + LinkedIn campaigns, manage conversations. JSON output for LLM agent pipelines.
+
+- **[Signals CLI](https://github.com/sortlist/signals-cli)** (*2025*) `Tool`
+  > Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent workflows.
+
 - **[Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](http://arxiv.org/abs/2308.16505)** (*2023*) `Arxiv`
   > Paper bridges recommender models and LLMs with "InteRecAgent", using LLMs as brain, models as tools, enabling interactive recommendation.
 
