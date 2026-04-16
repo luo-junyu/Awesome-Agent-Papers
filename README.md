@@ -56,6 +56,9 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ### Agent Collaboration
 
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 - **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)** (*2025*) `Arxiv`
   > The paper presents Foam - Agent, a multi - agent framework automating CFD workflows from natural language. It features unique retrieval, file - generation and error - correction systems, lowering expertise barriers.
 
@@ -1201,5 +1204,3 @@ If you find our survey helpful, please consider citing our work:
 <p align="center">
   <i>For questions or suggestions, please open an issue or contact the repository maintainers.</i>
 </p>
-
-
