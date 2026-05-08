@@ -279,6 +279,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Agent Evolution
 
+- **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)** (*2026*) `Arxiv`
+  > Long-running multi-agent systems that self-evolve via shared persistent memory, asynchronous execution, and heartbeat-based interventions to drive open-ended discovery. SOTA on 10 math/algorithmic/systems tasks. [Code](https://github.com/Human-Agent-Society/CORAL)
+
 - **[Evolutionary optimization of model merging recipes](https://www.nature.com/articles/s42256-024-00975-8)** (*2025*) `NMI`
   > Proposes an evolutionary approach for model merging, operating in two spaces, enabling cross - domain merging and introducing a new model composition paradigm.
 
