@@ -421,7 +421,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 ### Applications
 
 - **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)** (*2026*)
-  > Presents PerceptUI, a persona-conditioned framework that predicts how a specific user would answer UI/UX questions and explains why. Trained via contrastive reflection fine-tuning and reflective prompt evolution to reach human-level realism and generalize to unseen questions and personas
+  > Presents PerceptUI, a persona-conditioned framework that predicts how a specific user would answer UI/UX questions and explains why. Trained via contrastive reflection fine-tuning and reflective prompt evolution to reach human-level realism and generalize to unseen questions and personas.
 
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*) `npj Digital Medicine`
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
