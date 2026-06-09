@@ -572,6 +572,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Datasets & Benchmarks
 
+- **[Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation](https://arxiv.org/abs/2605.15669)** (*2026*) `ICML`
+  > Introduces Rule2DRC, a fully open benchmark for LLM agents that synthesize KLayout DRC scripts from natural-language chip design rules and are scored by execution on GDSII layouts.
+
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*) `ICLR`
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
 
@@ -1201,5 +1204,4 @@ If you find our survey helpful, please consider citing our work:
 <p align="center">
   <i>For questions or suggestions, please open an issue or contact the repository maintainers.</i>
 </p>
-
 
