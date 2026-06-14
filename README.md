@@ -1165,6 +1165,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[LangChain](https://github.com/langchain-ai/langchain)** (*2023*)
   > LangChain simplifies LLM app lifecycle, offering dev components, production tools, and deployment platform for large model - based agents.
 
+- **[Future AGI](https://github.com/future-agi/future-agi)** (*2025*)
+  > Future AGI is an open - source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents self - improve. Self - hostable, Apache - 2.0.
+
 - **[WebGPT: Browser-assisted question-answering with human feedback](http://arxiv.org/abs/2112.09332)** (*2022*) `Arxiv`
   > Fine - tune GPT - 3 for long - form Q&A with web - browsing, use imitation learning, human feedback, and reference collection, a novel approach.
 
