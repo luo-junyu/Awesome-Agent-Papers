@@ -420,6 +420,15 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Applications
 
+- **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)** (*2026*) `Arxiv`
+  > Presents PerceptUI, a persona-conditioned framework using LLM agents as synthetic users to predict UI/UX responses and generate explanations for early-stage usability testing.
+  
+- **[AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation](https://arxiv.org/abs/2601.00930)** (*2026*) `Arxiv`
+  > Introduces AlignUSER, building human-aligned LLM agents via world models to simulate users and evaluate recommender systems.
+
+- **[Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549)** (*2026*) `Arxiv`
+  > Proposes context-aware LLM agent simulation as an alternative to offline A/B testing for evaluating recommender systems.
+
 - **[An active inference strategy for prompting reliable responses from large language models in medical practice](https://doi.org/10.1038/s41746-025-01516-2)** (*2025*) `npj Digital Medicine`
   > The paper proposes a domain-specific dataset and an active inference-based prompting protocol to address LLM issues, enabling its safe medical integration.
 
