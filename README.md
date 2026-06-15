@@ -422,7 +422,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 - **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)** (*2026*) `Arxiv`
   > Presents PerceptUI, a persona-conditioned framework using LLM agents as synthetic users to predict UI/UX responses and generate explanations for early-stage usability testing.
-  
+
 - **[AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation](https://arxiv.org/abs/2601.00930)** (*2026*) `Arxiv`
   > Introduces AlignUSER, building human-aligned LLM agents via world models to simulate users and evaluate recommender systems.
 
