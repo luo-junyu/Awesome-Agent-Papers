@@ -1057,6 +1057,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Tools
 
+- **[Future AGI](https://github.com/future-agi/future-agi)** (*2026*)
+  > Future AGI is an open - source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents self - improve. Self - hostable, Apache - 2.0.
+
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*) `Arxiv`
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
 
