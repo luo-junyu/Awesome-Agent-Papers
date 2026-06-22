@@ -917,6 +917,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Survey
 
+- **[OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild](https://www.preprints.org/manuscript/202603.1060)** (*2026*) `Preprints`
+  > A case-centered survey of the OpenClaw public-agent ecosystem, organized around Platform, Security, Societies, and Deployment, tracing how openness enables extensibility while creating governance, security, and deployment challenges across the ecosystem.
+
 - **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** (*2025*) `Arxiv`
   > This paper first introduces "full - stack" safety for LLMs, covering the whole lifecycle, with rich literature and unique insights for future research.
 
