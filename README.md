@@ -920,6 +920,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** (*2025*) `Arxiv`
   > This paper first introduces "full - stack" safety for LLMs, covering the whole lifecycle, with rich literature and unique insights for future research.
 
+- **[Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2)** (*2026*) `Preprints`
+  > Formalizes the agent harness layer as Control, Agency, and Runtime (CAR); situates harness engineering in the software-to-prompt-to-context arc, audits 63 harness-relevant works, and proposes HarnessCard as a reporting artifact.
+
 - **[Trust but Verify! A Survey on Verification Design for Test-time Scaling](https://arxiv.org/abs/2508.16665)** (*2025*) `Arxiv`
   > This survey covers diverse TTS verification approaches, presents a unified view of verifier training, filling a gap in the literature.
 
