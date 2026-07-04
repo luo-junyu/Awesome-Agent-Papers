@@ -26,6 +26,7 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ## 📑 Table of Contents
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
 - [🌟 Overview](#-overview)
 - [📊 Statistics & Trends](#-statistics--trends)
 - [🔍 Key Categories](#-key-categories)
