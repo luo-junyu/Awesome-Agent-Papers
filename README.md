@@ -572,6 +572,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Datasets & Benchmarks
 
+- **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523)** (*2026*) `Arxiv`
+  > Evaluates browser agents on 153 everyday tasks across 144 live websites, with isolated execution and five-layer traces for measuring end-to-end success and agent behavior.
+
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*) `ICLR`
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
 
@@ -1201,5 +1204,4 @@ If you find our survey helpful, please consider citing our work:
 <p align="center">
   <i>For questions or suggestions, please open an issue or contact the repository maintainers.</i>
 </p>
-
 
