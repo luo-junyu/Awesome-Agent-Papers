@@ -572,6 +572,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Datasets & Benchmarks
 
+- **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](https://arxiv.org/abs/2505.20139)** (*2025*) `TMLR`
+  > Introduces StructEval, a benchmark for evaluating language models on structured-output generation and format conversion across 18 formats and 44 task types, including rendered outputs such as HTML and SVG. [Code](https://github.com/TIGER-AI-Lab/StructEval) · [Project](https://structeval.github.io/) · [Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)
+
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*) `ICLR`
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
 
@@ -1201,5 +1204,4 @@ If you find our survey helpful, please consider citing our work:
 <p align="center">
   <i>For questions or suggestions, please open an issue or contact the repository maintainers.</i>
 </p>
-
 
