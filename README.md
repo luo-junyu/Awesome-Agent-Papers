@@ -450,6 +450,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)** (*2025*) `Arxiv`
   > The paper presents CitySim, an urban simulator using LLMs. It uses recursive value - driven approach and endows agents with key features, enabling scalable urban studies.
 
+- **[CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents](https://arxiv.org/abs/2608.16897)** (*2026*) `Arxiv`
+  > Human-aligned follow-up to CitySim: intention-driven LLM agents learn habits and preferences via textual adapters, matching real population statistics at micro and macro scales.
+
 - **[A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools](https://arxiv.org/abs/2506.20743)** (*2025*) `Arxiv`
   > This paper surveys FMs in MatSci, introducing a taxonomy, discussing advances, reviewing resources, assessing pros & cons, and suggesting future directions.
 
