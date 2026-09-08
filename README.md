@@ -279,6 +279,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Agent Evolution
 
+- **[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763)** (*2026*) `arXiv`
+  > Trains a compact agent across controlled harness variations so it can adapt to developer-reviewed changes in skills, tools, prompts, and hooks with frozen weights.
+
 - **[Evolutionary optimization of model merging recipes](https://www.nature.com/articles/s42256-024-00975-8)** (*2025*) `NMI`
   > Proposes an evolutionary approach for model merging, operating in two spaces, enabling cross - domain merging and introducing a new model composition paradigm.
 
