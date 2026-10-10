@@ -279,6 +279,12 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Agent Evolution
 
+- **[Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation](https://arxiv.org/abs/2610.11384)** (*2026*) `Arxiv`
+  > Introduces SELF, which jointly optimizes environmental feedback modeling and hindsight self-distillation for language agents in interactive environments.
+
+- **[From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning](https://arxiv.org/abs/2610.11373)** (*2026*) `Arxiv`
+  > Introduces EFRE, an evolving repertoire of functions that supports continual task adaptation and reduces catastrophic forgetting without updating model parameters.
+
 - **[Evolutionary optimization of model merging recipes](https://www.nature.com/articles/s42256-024-00975-8)** (*2025*) `NMI`
   > Proposes an evolutionary approach for model merging, operating in two spaces, enabling cross - domain merging and introducing a new model composition paradigm.
 
