@@ -1058,6 +1058,7 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 ### Tools
 
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*) `Arxiv`
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
 
 - **[VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255)** (*2025*) `Arxiv`
