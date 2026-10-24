@@ -1057,6 +1057,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Tools
 
+- **[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762)** (*2026*) `Arxiv`
+  > Proposes ToolMaster, a trial-and-execution paradigm: agents first trial tools and self-correct via environment interaction (SFT on teacher trajectories, then RL), improving generalization to unseen tools.
+
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*) `Arxiv`
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
 
