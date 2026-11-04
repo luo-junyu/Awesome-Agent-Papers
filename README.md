@@ -572,6 +572,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Datasets & Benchmarks
 
+- **[Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816)** (*2026*) `Arxiv`
+  > Introduces EC²-Bench (EC2-Bench), 128 executable digital-workspace tasks (100 with privacy annotations) jointly measuring task performance, cloud cost and privacy exposure, to compare edge-cloud collaboration strategies for long-horizon LLM agents.
+
 - **[AgentHarm: Benchmarking Robustness of LLM Agents on Harmful Tasks](https://openreview.net/pdf?id=AC5n7xHuR1)** (*2025*) `ICLR`
   > Proposes AgentHarm, a new benchmark for LLM agents' robustness. Covers 11 harm categories, enabling evaluation of attacks and defenses.
 
@@ -1056,6 +1059,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
   > This paper analyzes the impact of disclosing biased AI results via Gender Shades audit, showing it can prompt companies to reduce algorithmic disparities.
 
 ### Tools
+
+- **[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762)** (*2026*) `Arxiv`
+  > Proposes ToolMaster, a trial-and-execution paradigm: agents first trial tools and self-correct via environment interaction (SFT on teacher trajectories, then RL), improving generalization to unseen tools.
 
 - **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404)** (*2025*) `Arxiv`
   > Proposes ToolCoder, reformulating tool learning as code gen. Transforms queries to Python scaffolds, reuses code & debugs systematically.
