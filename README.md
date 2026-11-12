@@ -157,6 +157,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Agent Construction
 
+- **[Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)** (*2026*) `Arxiv`
+  > Proposes MixUA, a memory system that distills trajectories from many users and heterogeneous agents into lessons scoped to a user-agent pair, user, agent, or global level, so lessons transfer without leaking private facts. Introduces the CrossLearnBench benchmark.
+
 - **[Planning with Multi-Constraints via Collaborative Language Agents](https://aclanthology.org/2025.coling-main.672/)** (*2025*) `*ACL`
   > This paper proposes PMC, a zero - shot method for LLM - based multi - agent systems. It simplifies complex, constraint - heavy task planning via task decomposition.
 
