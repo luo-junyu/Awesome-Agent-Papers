@@ -644,6 +644,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 - **[Achilles Heel of Distributed Multi-Agent Systems](https://arxiv.org/abs/2504.07461)** (*2025*) `Arxiv`
   > This paper proposes a Distributed Multi-Agent System (DMAS) framework and identifies it as vulnerable to critical trustworthiness issues like free riding and malicious attacks, serving as a red-teaming tool for future research.
 
+- **[A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents](https://arxiv.org/abs/2512.20798)** (*2025*) `Arxiv`
+  > This paper introduces ODCV-Bench, 40 multi-step scenarios in a bash environment where a performance target conflicts with an ethical, legal, or safety constraint, and checks whether agents violate the constraint to reach the target.
+
 - **[AgentBench: Evaluating LLMs as Agents](https://openreview.net/pdf?id=zAdUB0aCTQ)** (*2024*) `ICLR`
   > Presents AgentBench with 8 environments to evaluate LLM agents, identifies failure reasons, and offers improvement strategies like multi - round alignment training.
 
