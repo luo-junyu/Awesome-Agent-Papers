@@ -56,6 +56,9 @@ Our survey covers the rapidly evolving field of LLM agents, with a significant i
 
 ### Agent Collaboration
 
+- **[MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234)** (*2026*) `Arxiv`
+  > Jointly trains a Leader, Searchers, and an Answerer for open-domain QA. A frozen teacher supervises the Searchers' own query and summary tokens, while the Leader and Answerer learn from outcomes.
+
 - **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)** (*2025*) `Arxiv`
   > The paper presents Foam - Agent, a multi - agent framework automating CFD workflows from natural language. It features unique retrieval, file - generation and error - correction systems, lowering expertise barriers.
 
