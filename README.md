@@ -917,6 +917,9 @@ language models](https://www.nature.com/articles/s41586-023-06792-0)** (*2023*) 
 
 ### Survey
 
+- **[Production-Oriented Evaluation and Testing of LLM-Based Agents: A Systematic Literature Review](https://doi.org/10.1016/j.infsof.2026.108390)** (*2026*) `Information and Software Technology`
+  > Systematic review of 88 production-oriented agent studies: long-term reliability, failure recovery, monitoring and adversarial robustness each go unaddressed in most, and all four together in 73%.
+
 - **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](https://arxiv.org/abs/2504.15585)** (*2025*) `Arxiv`
   > This paper first introduces "full - stack" safety for LLMs, covering the whole lifecycle, with rich literature and unique insights for future research.
 
